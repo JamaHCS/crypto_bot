@@ -10,3 +10,4 @@ pytz==2020.4
 requests==2.13.0
 six==1.10.0
 websocket-client==0.56.0
+bitmex-market-maker==1.5.1
